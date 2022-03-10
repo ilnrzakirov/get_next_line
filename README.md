@@ -1,6 +1,9 @@
 # get_next_line
 no bonuses
 
+
+For detailed information, refer to the **[subject of this project](https://github.com/ilnrzakirov/get_next_line/blob/main/en.subject.pdf)**
+
 <br> • Calling your function get_next_line in a loop will then allow you to read the text
 available on the file descriptor one line at a time until the end of it.</br> 
 <br> • Your function should return the line that has just been read. If there is nothing
